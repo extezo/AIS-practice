@@ -1,0 +1,10 @@
+path: ../yolo_picks/
+train: images/train
+val: images/val
+test: images/test
+names:
+    0: green
+    1: blue
+    2: gray
+    3: beige
+    4: black-white-red
